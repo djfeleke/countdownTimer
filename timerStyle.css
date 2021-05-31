@@ -1,0 +1,35 @@
+.col-container {
+    display: flex;
+    flex-direction: column;
+    /*   min-height: 100vh;*/
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    display: flex;
+}
+
+#countDownTitle {
+    font-size: 4rem;
+    color: rgb(3, 31, 31);
+    font-weight: 900;
+    color: rgb(0, 68, 255);
+}
+
+.comClass {
+    text-align: center;
+}
+
+.p-Style {
+    font-weight: 900;
+    line-height: 1;
+    font-size: 5rem;
+    margin: 4rem 2rem 1rem;
+    color: rgb(191, 80, 255);
+}
+
+.comClass span {
+    font-size: 1.4rem;
+    color: darkcyan;
+}
